@@ -47,6 +47,8 @@ See the full analysis in the [Jupyter Notebook](./Horizon_enterprise_aircraft_in
 
 For additional info, contact John Mugambi at [ohn.mugambi@student.moringaschool.com](mailto:john.mugambi@student.moringaschool.com)
 
+To view the Tableau dashboard, go to [Tableau Dashboard](https://public.tableau.com/views/ACCIDENT_17324309776450/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ```
 ├── data
 ├── images
